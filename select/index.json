@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恨めしや",
+  "base_artist": "zensen",
+  "createdAt": "2026-03-15T15:01:09.943193Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恨めしや (feat. 可不)",
+      "artist": "zensen",
+      "has_synced": false,
+      "path": "select/pl_01_恨めしや_(feat._可不)_zensen.txt"
+    }
+  ]
+}
